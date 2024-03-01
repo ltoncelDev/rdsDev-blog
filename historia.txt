@@ -3,4 +3,6 @@ Tengo 39 años, soy de Colombia y actualmente vivo en Fonseca, La Guajira.
 
 Más adelante te contare un poco sobre mi.
 
-Soy ingeniero de sistemas y desarrollador BackEdn en PHP.
+Soy ingeniero de sistemas y desarrollador BackEnd en PHP.
+
+Trabajo actualmete como instructor en el programa de ADSO en el CAA.
